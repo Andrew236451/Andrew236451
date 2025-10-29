@@ -20,7 +20,7 @@ I currently work alongside my friend **Lori** on several exciting and innovative
 
 ### 🚀 Current Projects
 - 👨🏼‍💻 **work with** <a href="https://www.github.com/lori28167" target="_blank">Lori28167</a>
-- 🎥 **YouTube Channel** → content focused on development, design, and technology  
+- 🎥 **YouTube Channel** → content focused on **gaming**
 - 🧱 **Minecraft Server: Nexus MC** → building a unique gaming experience and community  
 - 💼 **Collaboration with Ticly** → developing applications and digital tools with a creative team  
 
