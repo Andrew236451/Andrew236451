@@ -37,7 +37,7 @@ I currently work alongside my friend **Lori** on several exciting and innovative
 
 ---
 
-### 🌈 Goals
+### 🎧 Goals
 > Keep improving as a developer and designer, learning something new every day and building projects that bring ideas to life through **creativity and technology**.
 
 ---
@@ -46,8 +46,8 @@ I currently work alongside my friend **Lori** on several exciting and innovative
 
 <p align="center">
   <a href="https://github.com/Andrew236451"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:andreaaziendale8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@Andrew_v2.0"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ---
