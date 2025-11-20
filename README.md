@@ -37,7 +37,7 @@ I currently work alongside my friend **Lori** on several exciting and innovative
 
 ---
 ### 🟣 Discord
-> ![](https://discord.c99.nl/widget/theme-3/1323404156513423440.png)
+ ![](https://discord.c99.nl/widget/theme-3/1323404156513423440.png)
 ---
 ### 🎧 Goals
 > Keep improving as a developer and designer, learning something new every day and building projects that bring ideas to life through **creativity and technology**.
